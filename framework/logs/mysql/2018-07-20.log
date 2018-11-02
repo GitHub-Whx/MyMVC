@@ -1,3 +1,0 @@
-2018-07-20 04:11:02 Mysql Error: Access denied for user 'r0oot'@'localhost' (using password: YES)
-2018-07-20 04:15:24 Mysql Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECaT `accountId`,`account`,`passwd`,`active`,`loginNum`,`loginTime` FROM `acc' at line 1
-2018-07-20 04:16:21 Mysql Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FRdOM sysInfo' at line 1
